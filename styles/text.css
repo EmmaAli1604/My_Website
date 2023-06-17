@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css2?family=Arsenal&display=swap);
+
+h1{
+    width: 20cm;
+    font-weight: 600;
+    color: #596854;
+    text-align: left;
+}
+
+h2{
+    width: 20cm;
+    font-weight: 600;
+    color:  #7C1715;
+    text-align: left;
+}
+
+p{
+    color: #66422D;
+    font-family: 'Arsenal';
+}
