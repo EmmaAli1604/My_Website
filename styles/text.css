@@ -1,21 +1,71 @@
 @import url(https://fonts.googleapis.com/css2?family=Arsenal&display=swap);
 
-h1{
-    width: 20cm;
+.title{
+    width: 300cm;
     font-weight: 600;
     color: #596854;
     text-align: left;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-h2{
+body h1{
+    position: relative;
+    /* padding-top: 100px;
+    padding-bottom: 0px; */
+    color: #596854;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body h2{
     width: 20cm;
     font-weight: 600;
     color:  #7C1715;
-    text-align: left;
+    position: relative;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-p{
-    color: #66422D;
+body h3{
+    width: 20cm;
+    font-weight: 600;
+    color:  #d28372;
+    position: relative;
+    top: 110px;
+    left: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body h4{
+    width: 20cm;
+    font-weight: 600;
+    color:  #9b633a;
+    position: relative;
+    top: 110px;
+    left: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body h5{
+    width: 20cm;
+    font-weight: 600;
+    color:  #af7e56;
+    position: relative;
+    top: 110px;
+    left: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body h6{
+    /* width: 20cm;
+    font-weight: 600; */
+    color:  #575949 ;
+    position: relative;
+    /* top: 110px;
+    left: 20px; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body p{
+    /* padding-top: 35px; */
+    color: #562d15;
     font-family: 'Arsenal';
 }
