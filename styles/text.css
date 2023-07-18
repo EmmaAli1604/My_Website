@@ -10,8 +10,6 @@
 
 body h1{
     position: relative;
-    /* padding-top: 100px;
-    padding-bottom: 0px; */
     color: #596854;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -29,8 +27,6 @@ body h3{
     font-weight: 600;
     color:  #d28372;
     position: relative;
-    top: 110px;
-    left: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -39,8 +35,6 @@ body h4{
     font-weight: 600;
     color:  #9b633a;
     position: relative;
-    top: 110px;
-    left: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -49,23 +43,16 @@ body h5{
     font-weight: 600;
     color:  #af7e56;
     position: relative;
-    top: 110px;
-    left: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 body h6{
-    /* width: 20cm;
-    font-weight: 600; */
     color:  #575949 ;
     position: relative;
-    /* top: 110px;
-    left: 20px; */
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 body p{
-    /* padding-top: 35px; */
     color: #562d15;
     font-family: 'Arsenal';
 }
