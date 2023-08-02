@@ -1,8 +1,11 @@
 footer{
     height: 80px;
-    position: static;
+    position: relative;
     width: 100%;
-    text-align: center;
     bottom: 0;
     background-color: #CC9A52;
+}
+
+footer p {
+    text-align: center;
 }
