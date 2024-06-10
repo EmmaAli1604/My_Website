@@ -1,3 +1,4 @@
 # My_Website
+Visit my  [webiste](https://emmaali1604.github.io/My_Website/) where you can learn more about me.
 
-https://github.com/Maclinz/JS_CSS_PortfolioProject
+Credit: 
